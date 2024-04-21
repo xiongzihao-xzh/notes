@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "90886f893f0bd6e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "33f18ac95b898206",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10c02718ef9e438e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Redis/极客时间 - 《Redis 核心技术与实战》/高性能 IO 模块.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0b7cb28552123944",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9c26bebb9f47d44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c6cbbdd8a331ac9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "6a67b1dee6fdeb41",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "96512c7581868731",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4cffd2a44c778f76",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a136c9b38a1233d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1526d41da498a2b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Redis/极客时间 - 《Redis 核心技术与实战》/高性能 IO 模块.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1a3c0961cf9e91c9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Redis/极客时间 - 《Redis 核心技术与实战》/高性能 IO 模块.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "030476198ddee708",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3858b64e0c425391",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Redis/极客时间 - 《Redis 核心技术与实战》/高性能 IO 模块.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "10c02718ef9e438e",
+  "lastOpenFiles": [
+    "Redis/极客时间 - 《Redis 核心技术与实战》/数据结构.md",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/高性能 IO 模块.md",
+    "激活码/idea.md",
+    "编程问题/编程 idea.md",
+    "激活码",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/基本架构.md",
+    "12306/注册防缓存击穿.md",
+    "12306/获取锁后再次判断缓存.md",
+    "12306/策略模式封装.md",
+    "Excalidraw/hltc 架构草图.excalidraw.md",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/基于多路复用的Redis高性能IO模型 20240407003958.png",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/Redis 基本 IO 模型 20240407001552.png",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/线程数和系统吞吐量 20240407001015.png",
+    "编程问题/遇到的问题.md",
+    "12306/责任链模式封装.md",
+    "12306/异步封装.md",
+    "编程问题",
+    "Excalidraw",
+    "12306",
+    "英语/英标",
+    "英语",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/数据结构的时间复杂度 20240331215054.png",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/跳表查找过程 20240331214846.png",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/压缩列表的查找 20240331214138.png",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/渐进式 rehash 20240331211738.png",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/哈希表的哈希冲突 20240331205157.png",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/全局哈希表 20240331204540.png",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/数据类型对应的数据结构 20240331203737.png",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments",
+    "Excalidraw/基本架构.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-31 16.39.45.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-31 16.39.44.excalidraw.md",
+    "未命名.canvas",
+    "Redis/极客时间 - 《Redis 核心技术与实战》",
+    "Redis/未命名.canvas",
+    "Redis",
+    "未命名/未命名.canvas"
+  ]
+}
