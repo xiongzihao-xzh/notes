@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redis/极客时间 - 《Redis 核心技术与实战》/高性能 IO 模块.md",
+                "file": "Redis/极客时间 - 《Redis 核心技术与实战》/AOF日志.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fbd0daaf78fefcdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Redis/极客时间 - 《Redis 核心技术与实战》/AOF日志.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redis/极客时间 - 《Redis 核心技术与实战》/高性能 IO 模块.md",
+                "file": "Redis/极客时间 - 《Redis 核心技术与实战》/AOF日志.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redis/极客时间 - 《Redis 核心技术与实战》/高性能 IO 模块.md",
+                "file": "Redis/极客时间 - 《Redis 核心技术与实战》/AOF日志.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redis/极客时间 - 《Redis 核心技术与实战》/高性能 IO 模块.md"
+                "file": "Redis/极客时间 - 《Redis 核心技术与实战》/AOF日志.md"
               }
             }
           }
@@ -147,14 +160,22 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "10c02718ef9e438e",
+  "active": "fbd0daaf78fefcdd",
   "lastOpenFiles": [
-    "Redis/极客时间 - 《Redis 核心技术与实战》/数据结构.md",
     "Redis/极客时间 - 《Redis 核心技术与实战》/高性能 IO 模块.md",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/AOF日志.md",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/AOF 非阻塞的重写过程 20240423003424.png",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/AOF重写减少日志大小 20240423002829.png",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/三种写回策略 20240423002356.png",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/Redis AOF 日志内容 20240422234746.png",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/Pasted image 20240423002313.png",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/# 三种写回策略 20240423002332.png",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/基本架构.md",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/Redis AOF 操作过程 20240422234630.png",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/数据结构.md",
     "激活码/idea.md",
     "编程问题/编程 idea.md",
     "激活码",
-    "Redis/极客时间 - 《Redis 核心技术与实战》/基本架构.md",
     "12306/注册防缓存击穿.md",
     "12306/获取锁后再次判断缓存.md",
     "12306/策略模式封装.md",
@@ -170,13 +191,6 @@
     "12306",
     "英语/英标",
     "英语",
-    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/数据结构的时间复杂度 20240331215054.png",
-    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/跳表查找过程 20240331214846.png",
-    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/压缩列表的查找 20240331214138.png",
-    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/渐进式 rehash 20240331211738.png",
-    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/哈希表的哈希冲突 20240331205157.png",
-    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/全局哈希表 20240331204540.png",
-    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/数据类型对应的数据结构 20240331203737.png",
     "Redis/极客时间 - 《Redis 核心技术与实战》/attachments",
     "Excalidraw/基本架构.excalidraw.md",
     "Excalidraw/Drawing 2024-03-31 16.39.45.excalidraw.md",
