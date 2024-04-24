@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "33f18ac95b898206",
+        "id": "11cc2b6b0d66f5ec",
         "type": "tabs",
         "children": [
           {
-            "id": "10c02718ef9e438e",
+            "id": "6392025da6d1acdf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redis/极客时间 - 《Redis 核心技术与实战》/AOF日志.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fbd0daaf78fefcdd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Redis/极客时间 - 《Redis 核心技术与实战》/AOF日志.md",
+                "file": "Redis/极客时间 - 《Redis 核心技术与实战》/RDB 日志.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redis/极客时间 - 《Redis 核心技术与实战》/AOF日志.md",
+                "file": "Redis/极客时间 - 《Redis 核心技术与实战》/RDB 日志.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redis/极客时间 - 《Redis 核心技术与实战》/AOF日志.md",
+                "file": "Redis/极客时间 - 《Redis 核心技术与实战》/RDB 日志.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redis/极客时间 - 《Redis 核心技术与实战》/AOF日志.md"
+                "file": "Redis/极客时间 - 《Redis 核心技术与实战》/RDB 日志.md"
               }
             }
           }
@@ -160,10 +147,19 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "fbd0daaf78fefcdd",
+  "active": "6392025da6d1acdf",
   "lastOpenFiles": [
-    "Redis/极客时间 - 《Redis 核心技术与实战》/高性能 IO 模块.md",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/内存快照和AOF混合使用 20240424222551.png",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/增量快照示意图 20240424222054.png",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/快照机制下的数据丢失 20240424221639.png",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/写时复制机制保证快照期间数据可修改 20240424221251.png",
     "Redis/极客时间 - 《Redis 核心技术与实战》/AOF日志.md",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/RDB 日志.md",
+    "Java 类库学习笔记/Spring Cloud OpenFeign.md",
+    "Java 类库学习笔记/JSqlParser.md",
+    "Java 类库学习笔记/未命名.md",
+    "Java 类库学习笔记",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/高性能 IO 模块.md",
     "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/AOF 非阻塞的重写过程 20240423003424.png",
     "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/AOF重写减少日志大小 20240423002829.png",
     "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/三种写回策略 20240423002356.png",
@@ -180,9 +176,6 @@
     "12306/获取锁后再次判断缓存.md",
     "12306/策略模式封装.md",
     "Excalidraw/hltc 架构草图.excalidraw.md",
-    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/基于多路复用的Redis高性能IO模型 20240407003958.png",
-    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/Redis 基本 IO 模型 20240407001552.png",
-    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/线程数和系统吞吐量 20240407001015.png",
     "编程问题/遇到的问题.md",
     "12306/责任链模式封装.md",
     "12306/异步封装.md",
