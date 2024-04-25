@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "11cc2b6b0d66f5ec",
+        "id": "c21663681b1a7779",
         "type": "tabs",
         "children": [
           {
-            "id": "6392025da6d1acdf",
+            "id": "026f99768e8e3711",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java 类库学习笔记/Spring Cloud OpenFeign.md",
+                "file": "Redis/极客时间 - 《Redis 核心技术与实战》/数据同步.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java 类库学习笔记/Spring Cloud OpenFeign.md",
+                "file": "Redis/极客时间 - 《Redis 核心技术与实战》/数据同步.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java 类库学习笔记/Spring Cloud OpenFeign.md",
+                "file": "Redis/极客时间 - 《Redis 核心技术与实战》/数据同步.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java 类库学习笔记/Spring Cloud OpenFeign.md"
+                "file": "Redis/极客时间 - 《Redis 核心技术与实战》/数据同步.md"
               }
             }
           }
@@ -147,25 +147,26 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "6392025da6d1acdf",
+  "active": "026f99768e8e3711",
   "lastOpenFiles": [
     "Redis/极客时间 - 《Redis 核心技术与实战》/RDB 日志.md",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/数据同步.md",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/AOF日志.md",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/高性能 IO 模块.md",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/Redis增量复制流程 20240425234651.png",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/Redis repl_backlog_buffer 的使用 20240425234544.png",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/级联的“主-从-从”模式 20240425233939.png",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/主从库第一次同步的流程 20240425232933.png",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/Redis 主从库和读写分离 20240425232239.png",
+    "Java 类库学习笔记/Spring Cloud OpenFeign.md",
     "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/内存快照和AOF混合使用 20240424222551.png",
     "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/增量快照示意图 20240424222054.png",
     "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/快照机制下的数据丢失 20240424221639.png",
     "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/写时复制机制保证快照期间数据可修改 20240424221251.png",
-    "Redis/极客时间 - 《Redis 核心技术与实战》/AOF日志.md",
-    "Java 类库学习笔记/Spring Cloud OpenFeign.md",
     "Java 类库学习笔记/JSqlParser.md",
     "Java 类库学习笔记/未命名.md",
     "Java 类库学习笔记",
-    "Redis/极客时间 - 《Redis 核心技术与实战》/高性能 IO 模块.md",
     "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/AOF 非阻塞的重写过程 20240423003424.png",
-    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/AOF重写减少日志大小 20240423002829.png",
-    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/三种写回策略 20240423002356.png",
-    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/Redis AOF 日志内容 20240422234746.png",
-    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/Pasted image 20240423002313.png",
-    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/# 三种写回策略 20240423002332.png",
     "Redis/极客时间 - 《Redis 核心技术与实战》/基本架构.md",
     "Redis/极客时间 - 《Redis 核心技术与实战》/数据结构.md",
     "激活码/idea.md",
