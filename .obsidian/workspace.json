@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redis/极客时间 - 《Redis 核心技术与实战》/数据同步.md",
+                "file": "Redis/极客时间 - 《Redis 核心技术与实战》/哨兵机制.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redis/极客时间 - 《Redis 核心技术与实战》/数据同步.md",
+                "file": "Redis/极客时间 - 《Redis 核心技术与实战》/哨兵机制.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redis/极客时间 - 《Redis 核心技术与实战》/数据同步.md",
+                "file": "Redis/极客时间 - 《Redis 核心技术与实战》/哨兵机制.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redis/极客时间 - 《Redis 核心技术与实战》/数据同步.md"
+                "file": "Redis/极客时间 - 《Redis 核心技术与实战》/哨兵机制.md"
               }
             }
           }
@@ -149,8 +149,17 @@
   },
   "active": "026f99768e8e3711",
   "lastOpenFiles": [
-    "Redis/极客时间 - 《Redis 核心技术与实战》/RDB 日志.md",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/基于复制进度的新主库选主原则 20240426221932.png",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/新主库的选择过程 20240426221648.png",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/客观下线的判断 20240426221252.png",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/哨兵机制的三项任务与目标 20240426220849.png",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/主库故障后从库无法服务写操作 20240426220444.png",
     "Redis/极客时间 - 《Redis 核心技术与实战》/数据同步.md",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/哨兵机制.md",
+    "Excalidraw/hltc 架构草图.excalidraw.md",
+    "编程问题/编程 idea.md",
+    "编程问题/遇到的问题.md",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/RDB 日志.md",
     "Redis/极客时间 - 《Redis 核心技术与实战》/AOF日志.md",
     "Redis/极客时间 - 《Redis 核心技术与实战》/高性能 IO 模块.md",
     "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/Redis增量复制流程 20240425234651.png",
@@ -160,23 +169,16 @@
     "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/Redis 主从库和读写分离 20240425232239.png",
     "Java 类库学习笔记/Spring Cloud OpenFeign.md",
     "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/内存快照和AOF混合使用 20240424222551.png",
-    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/增量快照示意图 20240424222054.png",
-    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/快照机制下的数据丢失 20240424221639.png",
-    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/写时复制机制保证快照期间数据可修改 20240424221251.png",
     "Java 类库学习笔记/JSqlParser.md",
     "Java 类库学习笔记/未命名.md",
     "Java 类库学习笔记",
-    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/AOF 非阻塞的重写过程 20240423003424.png",
     "Redis/极客时间 - 《Redis 核心技术与实战》/基本架构.md",
     "Redis/极客时间 - 《Redis 核心技术与实战》/数据结构.md",
     "激活码/idea.md",
-    "编程问题/编程 idea.md",
     "激活码",
     "12306/注册防缓存击穿.md",
     "12306/获取锁后再次判断缓存.md",
     "12306/策略模式封装.md",
-    "Excalidraw/hltc 架构草图.excalidraw.md",
-    "编程问题/遇到的问题.md",
     "12306/责任链模式封装.md",
     "12306/异步封装.md",
     "编程问题",
