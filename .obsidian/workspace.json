@@ -149,6 +149,12 @@
   },
   "active": "026f99768e8e3711",
   "lastOpenFiles": [
+    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/Leader 选举 20240427230041.png",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/投票 20240427225812.png",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/事件和相关频道 20240427225450.png",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/哨兵和从库建立连接 20240427224959.png",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/哨兵集群 20240427224423.png",
+    "Mybaltis",
     "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/基于复制进度的新主库选主原则 20240426221932.png",
     "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/新主库的选择过程 20240426221648.png",
     "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/客观下线的判断 20240426221252.png",
@@ -163,12 +169,7 @@
     "Redis/极客时间 - 《Redis 核心技术与实战》/AOF日志.md",
     "Redis/极客时间 - 《Redis 核心技术与实战》/高性能 IO 模块.md",
     "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/Redis增量复制流程 20240425234651.png",
-    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/Redis repl_backlog_buffer 的使用 20240425234544.png",
-    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/级联的“主-从-从”模式 20240425233939.png",
-    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/主从库第一次同步的流程 20240425232933.png",
-    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/Redis 主从库和读写分离 20240425232239.png",
     "Java 类库学习笔记/Spring Cloud OpenFeign.md",
-    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/内存快照和AOF混合使用 20240424222551.png",
     "Java 类库学习笔记/JSqlParser.md",
     "Java 类库学习笔记/未命名.md",
     "Java 类库学习笔记",
@@ -193,7 +194,6 @@
     "未命名.canvas",
     "Redis/极客时间 - 《Redis 核心技术与实战》",
     "Redis/未命名.canvas",
-    "Redis",
     "未命名/未命名.canvas"
   ]
 }
