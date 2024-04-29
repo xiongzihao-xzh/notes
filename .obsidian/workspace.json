@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redis/极客时间 - 《Redis 核心技术与实战》/哨兵机制.md",
+                "file": "Redis/极客时间 - 《Redis 核心技术与实战》/切片集群.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redis/极客时间 - 《Redis 核心技术与实战》/哨兵机制.md",
+                "file": "Redis/极客时间 - 《Redis 核心技术与实战》/切片集群.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redis/极客时间 - 《Redis 核心技术与实战》/哨兵机制.md",
+                "file": "Redis/极客时间 - 《Redis 核心技术与实战》/切片集群.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redis/极客时间 - 《Redis 核心技术与实战》/哨兵机制.md"
+                "file": "Redis/极客时间 - 《Redis 核心技术与实战》/切片集群.md"
               }
             }
           }
@@ -149,6 +149,12 @@
   },
   "active": "026f99768e8e3711",
   "lastOpenFiles": [
+    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/客户端MOVED重定向命令 20240429205745.png",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/映射分布情况 20240429205446.png",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/纵向扩展和横向扩展对比图 20240429204424.png",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/切片集群架构图 20240429204158.png",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/哨兵机制.md",
+    "Redis/极客时间 - 《Redis 核心技术与实战》/切片集群.md",
     "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/Leader 选举 20240427230041.png",
     "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/投票 20240427225812.png",
     "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/事件和相关频道 20240427225450.png",
@@ -157,18 +163,13 @@
     "Mybaltis",
     "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/基于复制进度的新主库选主原则 20240426221932.png",
     "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/新主库的选择过程 20240426221648.png",
-    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/客观下线的判断 20240426221252.png",
-    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/哨兵机制的三项任务与目标 20240426220849.png",
-    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/主库故障后从库无法服务写操作 20240426220444.png",
     "Redis/极客时间 - 《Redis 核心技术与实战》/数据同步.md",
-    "Redis/极客时间 - 《Redis 核心技术与实战》/哨兵机制.md",
     "Excalidraw/hltc 架构草图.excalidraw.md",
     "编程问题/编程 idea.md",
     "编程问题/遇到的问题.md",
     "Redis/极客时间 - 《Redis 核心技术与实战》/RDB 日志.md",
     "Redis/极客时间 - 《Redis 核心技术与实战》/AOF日志.md",
     "Redis/极客时间 - 《Redis 核心技术与实战》/高性能 IO 模块.md",
-    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/Redis增量复制流程 20240425234651.png",
     "Java 类库学习笔记/Spring Cloud OpenFeign.md",
     "Java 类库学习笔记/JSqlParser.md",
     "Java 类库学习笔记/未命名.md",
