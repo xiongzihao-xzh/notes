@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MySQL/极客时间 - 《MySQL 实战 45 讲》/日志系统.md",
+                "file": "MySQL/极客时间 - 《MySQL 实战 45 讲》/join语句怎么优化？.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MySQL/极客时间 - 《MySQL 实战 45 讲》/日志系统.md",
+                "file": "MySQL/极客时间 - 《MySQL 实战 45 讲》/join语句怎么优化？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MySQL/极客时间 - 《MySQL 实战 45 讲》/日志系统.md",
+                "file": "MySQL/极客时间 - 《MySQL 实战 45 讲》/join语句怎么优化？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MySQL/极客时间 - 《MySQL 实战 45 讲》/日志系统.md"
+                "file": "MySQL/极客时间 - 《MySQL 实战 45 讲》/join语句怎么优化？.md"
               }
             }
           }
@@ -149,8 +149,26 @@
   },
   "active": "026f99768e8e3711",
   "lastOpenFiles": [
-    "MySQL/极客时间 - 《MySQL 实战 45 讲》/事务隔离.md",
+    "MySQL/极客时间 - 《MySQL 实战 45 讲》/到底可不可以使用join？.md",
+    "MySQL/极客时间 - 《MySQL 实战 45 讲》/join语句怎么优化？.md",
+    "MySQL/极客时间 - 《MySQL 实战 45 讲》/attachments/Block Nested-Loop Join 算法的执行流程 20240509220609.png",
+    "MySQL/极客时间 - 《MySQL 实战 45 讲》/attachments/Index Nested-Loop Join 算法的执行流程 20240509215609.png",
+    "MySQL/极客时间 - 《MySQL 实战 45 讲》/我查这么多数据，会不会把数据库内存打爆？.md",
+    "MySQL/极客时间 - 《MySQL 实战 45 讲》/attachments/查询结果发送流程 20240509203340.png",
+    "MySQL/极客时间 - 《MySQL 实战 45 讲》/为什么还有kill不掉的语句.md",
+    "MySQL/极客时间 - 《MySQL 实战 45 讲》/误删数据后除了跑路，还能怎么办？.md",
+    "MySQL/极客时间 - 《MySQL 实战 45 讲》/attachments/数据恢复流程 20240509200638.png",
+    "MySQL/极客时间 - 《MySQL 实战 45 讲》/attachments/Pasted image 20240509200637.png",
+    "MySQL/极客时间 - 《MySQL 实战 45 讲》/count(*)这么慢，我该怎么办.md",
+    "MySQL/极客时间 - 《MySQL 实战 45 讲》/为什么表数据删掉一半，表文件大小不变？.md",
+    "未命名",
+    "MySQL/极客时间 - 《MySQL 实战 45 讲》/为什么我的MySQL会“抖”一下？.md",
+    "12306/异步封装.md",
+    "Excalidraw/hltc 架构草图.excalidraw.md",
+    "MySQL/极客时间 - 《MySQL 实战 45 讲》/attachments/更新和 flush 过程 20240508203513.png",
+    "MySQL/极客时间 - 《MySQL 实战 45 讲》/索引.md",
     "MySQL/极客时间 - 《MySQL 实战 45 讲》/日志系统.md",
+    "MySQL/极客时间 - 《MySQL 实战 45 讲》/事务隔离.md",
     "MySQL/极客时间 - 《MySQL 实战 45 讲》/attachments/回滚操作 20240507220741.png",
     "MySQL/极客时间 - 《MySQL 实战 45 讲》/attachments/update 语句执行流程图 20240507174052.png",
     "MySQL/极客时间 - 《MySQL 实战 45 讲》/attachments/Write-Ahead Logging 20240507172822.png",
@@ -160,40 +178,23 @@
     "Excalidraw/Drawing 2024-05-07 12.05.24.excalidraw.md",
     "MySQL/极客时间 - 《MySQL 实战 45 讲》",
     "MySQL",
-    "Excalidraw/hltc 架构草图.excalidraw.md",
     "Redis/极客时间 - 《Redis 核心技术与实战》/数据结构.md",
     "Redis/极客时间 - 《Redis 核心技术与实战》/基本架构.md",
     "Redis/极客时间 - 《Redis 核心技术与实战》/String.md",
     "编程问题/遇到的问题.md",
     "Redis/极客时间 - 《Redis 核心技术与实战》/切片集群.md",
-    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/客户端MOVED重定向命令 20240429205745.png",
-    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/映射分布情况 20240429205446.png",
-    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/纵向扩展和横向扩展对比图 20240429204424.png",
-    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/切片集群架构图 20240429204158.png",
     "Redis/极客时间 - 《Redis 核心技术与实战》/哨兵机制.md",
-    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/Leader 选举 20240427230041.png",
-    "Redis/极客时间 - 《Redis 核心技术与实战》/attachments/投票 20240427225812.png",
     "Mybaltis",
     "Redis/极客时间 - 《Redis 核心技术与实战》/数据同步.md",
     "编程问题/编程 idea.md",
     "Redis/极客时间 - 《Redis 核心技术与实战》/RDB 日志.md",
     "Redis/极客时间 - 《Redis 核心技术与实战》/AOF日志.md",
     "Redis/极客时间 - 《Redis 核心技术与实战》/高性能 IO 模块.md",
-    "Java 类库学习笔记/Spring Cloud OpenFeign.md",
-    "Java 类库学习笔记/JSqlParser.md",
-    "Java 类库学习笔记/未命名.md",
     "Java 类库学习笔记",
-    "激活码/idea.md",
     "激活码",
-    "12306/注册防缓存击穿.md",
-    "12306/获取锁后再次判断缓存.md",
-    "12306/策略模式封装.md",
-    "12306/责任链模式封装.md",
-    "12306/异步封装.md",
     "编程问题",
     "Excalidraw",
     "12306",
-    "英语/英标",
     "未命名.canvas",
     "Redis/未命名.canvas",
     "未命名/未命名.canvas"
