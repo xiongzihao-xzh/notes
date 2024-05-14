@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Java 日期时间类.md",
+                "file": "Jackson/Jackson General Annotations.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java 日期时间类.md",
+                "file": "Jackson/Jackson General Annotations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java 日期时间类.md",
+                "file": "Jackson/Jackson General Annotations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java 日期时间类.md"
+                "file": "Jackson/Jackson General Annotations.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,10 +149,16 @@
   },
   "active": "c6d3b1f4f185912e",
   "lastOpenFiles": [
+    "Jackson/Jackson Polymorphic Type Handling Annotations.md",
+    "Jackson/Jackson General Annotations.md",
+    "Jackson/Jackson Property Inclusion Annotations.md",
+    "Jackson/Jackson Deserialization Annotations.md",
+    "Jackson/Jackson Serialization Annotations.md",
+    "Java/Java 日期时间类.md",
+    "Jackson",
     "Java/attachments/Java 日期时间类型 20240514004150.png",
     "Java/attachments",
     "MySQL/极客时间 - 《MySQL 实战 45 讲》/count(*)这么慢，我该怎么办.md",
-    "Java/Java 日期时间类.md",
     "Java",
     "2024-05-12.md",
     "MySQL/极客时间 - 《MySQL 实战 45 讲》/join语句怎么优化？.md",
@@ -177,7 +183,6 @@
     "MySQL/极客时间 - 《MySQL 实战 45 讲》/attachments/update 语句执行流程图 20240507174052.png",
     "MySQL/极客时间 - 《MySQL 实战 45 讲》/attachments/Write-Ahead Logging 20240507172822.png",
     "MySQL/极客时间 - 《MySQL 实战 45 讲》/基础架构.md",
-    "MySQL/极客时间 - 《MySQL 实战 45 讲》/attachments/MySQL 的逻辑架构图 20240507151242.png",
     "MySQL/极客时间 - 《MySQL 实战 45 讲》/attachments",
     "Excalidraw/Drawing 2024-05-07 12.05.24.excalidraw.md",
     "MySQL/极客时间 - 《MySQL 实战 45 讲》",
@@ -186,15 +191,10 @@
     "Redis/极客时间 - 《Redis 核心技术与实战》/基本架构.md",
     "Redis/极客时间 - 《Redis 核心技术与实战》/String.md",
     "编程问题/遇到的问题.md",
-    "Redis/极客时间 - 《Redis 核心技术与实战》/切片集群.md",
-    "Redis/极客时间 - 《Redis 核心技术与实战》/哨兵机制.md",
     "Mybaltis",
-    "Redis/极客时间 - 《Redis 核心技术与实战》/数据同步.md",
-    "编程问题/编程 idea.md",
     "Java 类库学习笔记",
     "激活码",
     "编程问题",
-    "Excalidraw",
     "未命名.canvas",
     "Redis/未命名.canvas",
     "未命名/未命名.canvas"
