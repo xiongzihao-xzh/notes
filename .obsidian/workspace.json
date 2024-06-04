@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring 相关/1.接口传参方式详解.md",
+                "file": "Java 业务架构实战营 - 何辉/2.缓存设计.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring 相关/1.接口传参方式详解.md",
+                "file": "Java 业务架构实战营 - 何辉/2.缓存设计.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring 相关/1.接口传参方式详解.md",
+                "file": "Java 业务架构实战营 - 何辉/2.缓存设计.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring 相关/1.接口传参方式详解.md"
+                "file": "Java 业务架构实战营 - 何辉/2.缓存设计.md"
               }
             }
           }
@@ -149,9 +149,10 @@
   },
   "active": "c6d3b1f4f185912e",
   "lastOpenFiles": [
+    "Java 业务架构实战营 - 何辉/attachments/Pasted image 20240603194819.png",
     "Java 业务架构实战营 - 何辉/1.分布式事务（最终一致性）.md",
-    "Java 业务架构实战营 - 何辉/2.缓存设计.md",
     "Spring 相关/1.接口传参方式详解.md",
+    "Java 业务架构实战营 - 何辉/2.缓存设计.md",
     "Java 业务架构实战营 - 何辉/attachments/缓存设计 20240531031055.png",
     "Java 业务架构实战营 - 何辉/attachments",
     "MySQL/极客时间 - 《MySQL 实战 45 讲》/17.MySQL是怎么保证数据不丢的？.md",
