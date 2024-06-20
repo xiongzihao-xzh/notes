@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mybaltis/2.全局配置文件.md",
+                "file": "Mybaltis/3.关系映射.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mybaltis/2.全局配置文件.md",
+                "file": "Mybaltis/3.关系映射.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mybaltis/2.全局配置文件.md",
+                "file": "Mybaltis/3.关系映射.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mybaltis/2.全局配置文件.md"
+                "file": "Mybaltis/3.关系映射.md"
               }
             }
           }
@@ -149,8 +149,11 @@
   },
   "active": "ef0633d57f8f0812",
   "lastOpenFiles": [
-    "Mybaltis/1.增删改查标签.md",
+    "Mybaltis/5.缓存机制.md",
+    "Mybaltis/4.动态 SQL.md",
+    "Mybaltis/3.关系映射.md",
     "Mybaltis/2.全局配置文件.md",
+    "Mybaltis/1.增删改查标签.md",
     "Java 业务架构实战营 - 何辉/2.缓存设计.md",
     "SQL",
     "Java 业务架构实战营 - 何辉/1.分布式事务（最终一致性）.md",
@@ -179,9 +182,6 @@
     "MySQL/极客时间 - 《MySQL 实战 45 讲》/11.“order by”是怎么工作的？.md",
     "MySQL/极客时间 - 《MySQL 实战 45 讲》/10.字符串字段加索引.md",
     "MySQL/极客时间 - 《MySQL 实战 45 讲》/9.MySQL为什么有时候会选错索引.md",
-    "MySQL/极客时间 - 《MySQL 实战 45 讲》/8.普通索引和唯一索引.md",
-    "MySQL/极客时间 - 《MySQL 实战 45 讲》/7.事务.md",
-    "MySQL/极客时间 - 《MySQL 实战 45 讲》/6.行锁.md",
     "Java 业务架构实战营 - 何辉",
     "Java 类库学习笔记/Jackson",
     "Java/attachments/Java 日期时间类型 20240514004150.png",
