@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法/1.回溯.md",
+                "file": "算法/2.BFS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22048c9bbe80707b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "分布式解决方案/一.分布式锁解决方案/2.MySQL 实现分布式锁.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,7 +51,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法/1.回溯.md",
+                "file": "分布式解决方案/一.分布式锁解决方案/2.MySQL 实现分布式锁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算法/1.回溯.md",
+                "file": "分布式解决方案/一.分布式锁解决方案/2.MySQL 实现分布式锁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "算法/1.回溯.md"
+                "file": "分布式解决方案/一.分布式锁解决方案/2.MySQL 实现分布式锁.md"
               }
             }
           }
@@ -147,22 +160,31 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "ef0633d57f8f0812",
+  "active": "22048c9bbe80707b",
   "lastOpenFiles": [
+    "分布式解决方案/一.分布式锁解决方案/1.JVM 锁.md",
+    "分布式解决方案/一.分布式锁解决方案/2.MySQL 实现分布式锁.md",
+    "分布式解决方案/一.分布式锁解决方案/3.Redis 实现分布式锁.md",
+    "算法/2.BFS.md",
+    "算法/1.回溯.md",
+    "分布式解决方案/一.分布式锁解决方案/attachments/Pasted image 20240625021241.png",
+    "分布式解决方案/一.分布式锁解决方案/attachments",
+    "Java 业务架构实战营 - 何辉/2.缓存设计.md",
+    "Java 业务架构实战营 - 何辉/1.分布式事务（最终一致性）.md",
+    "分布式解决方案/一.分布式锁解决方案",
+    "分布式解决方案/分布式锁解决方案.md",
+    "分布式解决方案",
     "Java/Java 日期时间类.md",
     "Spring 相关/1.接口传参方式详解.md",
     "Spring 相关/一.从 0 开始深入学习 Spring - 掘金小册",
     "Spring 相关/未命名.md",
-    "算法/1.回溯.md",
     "Mybaltis/3.关系映射.md",
     "算法",
     "Mybaltis/5.缓存机制.md",
     "Mybaltis/4.动态 SQL.md",
     "Mybaltis/2.全局配置文件.md",
     "Mybaltis/1.增删改查标签.md",
-    "Java 业务架构实战营 - 何辉/2.缓存设计.md",
     "SQL",
-    "Java 业务架构实战营 - 何辉/1.分布式事务（最终一致性）.md",
     "Java 类库学习笔记/spring-rocketmq/7.常见问题.md",
     "Java 类库学习笔记/spring-rocketmq/6.请求应答语义支持.md",
     "Java 类库学习笔记/spring-rocketmq/2.接收消息.md",
@@ -179,22 +201,13 @@
     "MySQL/极客时间 - 《MySQL 实战 45 讲》/17.MySQL是怎么保证数据不丢的？.md",
     "Spring 相关/接口传参方式详解",
     "Spring 相关",
-    "MySQL/极客时间 - 《MySQL 实战 45 讲》/16.MySQL有哪些“饮鸩止渴”提高性能的方法.md",
-    "MySQL/极客时间 - 《MySQL 实战 45 讲》/15.为什么我只改一行的语句，锁这么多？.md",
-    "MySQL/极客时间 - 《MySQL 实战 45 讲》/14.幻读是什么，幻读有什么问题？.md",
-    "MySQL/极客时间 - 《MySQL 实战 45 讲》/13.为什么我只查一行的语句，也执行这么慢.md",
-    "MySQL/极客时间 - 《MySQL 实战 45 讲》/12.为什么这些SQL语句逻辑相同，性能却差异巨大？.md",
-    "Java 业务架构实战营 - 何辉",
-    "Java 类库学习笔记/Jackson",
     "Java/attachments/Java 日期时间类型 20240514004150.png",
-    "Java/attachments",
     "MySQL/极客时间 - 《MySQL 实战 45 讲》/attachments/Block Nested-Loop Join 算法的执行流程 20240509220609.png",
     "MySQL/极客时间 - 《MySQL 实战 45 讲》/attachments/Index Nested-Loop Join 算法的执行流程 20240509215609.png",
     "MySQL/极客时间 - 《MySQL 实战 45 讲》/attachments/查询结果发送流程 20240509203340.png",
     "MySQL/极客时间 - 《MySQL 实战 45 讲》/attachments/数据恢复流程 20240509200638.png",
     "MySQL/极客时间 - 《MySQL 实战 45 讲》/attachments/Pasted image 20240509200637.png",
     "MySQL/极客时间 - 《MySQL 实战 45 讲》/attachments/更新和 flush 过程 20240508203513.png",
-    "MySQL/极客时间 - 《MySQL 实战 45 讲》/attachments/回滚操作 20240507220741.png",
     "未命名.canvas",
     "Redis/未命名.canvas",
     "未命名/未命名.canvas"
